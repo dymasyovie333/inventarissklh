@@ -1,0 +1,1 @@
+export function HalamanUtama() { return <p>Daftar barang akan ditampilkan di sini.</p>; }

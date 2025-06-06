@@ -1,0 +1,1 @@
+export function HalamanTambah() { return <p>Form tambah barang akan ditampilkan di sini.</p>; }
